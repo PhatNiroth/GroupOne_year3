@@ -1,0 +1,14 @@
+E:\C#\spi_awesome\connect_database\connect_database\bin\Debug\connect_database.exe.config
+E:\C#\spi_awesome\connect_database\connect_database\bin\Debug\connect_database.exe
+E:\C#\spi_awesome\connect_database\connect_database\bin\Debug\connect_database.pdb
+E:\C#\spi_awesome\connect_database\connect_database\bin\Debug\Guna.UI.dll
+E:\C#\spi_awesome\connect_database\connect_database\bin\Debug\Guna.UI2.dll
+E:\C#\spi_awesome\connect_database\connect_database\obj\Debug\connect_database.csproj.AssemblyReference.cache
+E:\C#\spi_awesome\connect_database\connect_database\obj\Debug\connect_database.csproj.SuggestedBindingRedirects.cache
+E:\C#\spi_awesome\connect_database\connect_database\obj\Debug\connect_database.Form1.resources
+E:\C#\spi_awesome\connect_database\connect_database\obj\Debug\connect_database.Properties.Resources.resources
+E:\C#\spi_awesome\connect_database\connect_database\obj\Debug\connect_database.csproj.GenerateResource.cache
+E:\C#\spi_awesome\connect_database\connect_database\obj\Debug\connect_database.csproj.CoreCompileInputs.cache
+E:\C#\spi_awesome\connect_database\connect_database\obj\Debug\connect_database.csproj.CopyComplete
+E:\C#\spi_awesome\connect_database\connect_database\obj\Debug\connect_database.exe
+E:\C#\spi_awesome\connect_database\connect_database\obj\Debug\connect_database.pdb
